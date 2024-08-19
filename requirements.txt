@@ -1,0 +1,8 @@
+pandas
+sklearn
+pickle
+flask
+beautifulsoup4
+scrapy
+requests
+joblib
